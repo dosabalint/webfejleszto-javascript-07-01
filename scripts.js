@@ -1,0 +1,3 @@
+// játék
+new Game();
+

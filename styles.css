@@ -1,0 +1,7 @@
+#grid td {
+    background-color: gray;
+    border: 1px solid gray;
+    width: 1rem;
+    height: 1rem;
+}
+
